@@ -1,6 +1,6 @@
 <img src="me.gif" style="text-align:center;width: 480px;float: left;"/>
     
-## Hallo this is louise!
+## Hallo, Ich bin louise!
 
 ### What I've built:
 
