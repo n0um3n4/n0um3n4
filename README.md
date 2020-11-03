@@ -41,7 +41,8 @@
 
 <br>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=thelastinuit&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=thelastinuit&show_icons=true&theme=dracula&count_private=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thelastinuit&show_icons=true&count_private=true&langs_count=10&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 [rust]: https://rust-lang.org
 [ruby]: http://ruby-lang.org/en
