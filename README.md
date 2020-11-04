@@ -36,6 +36,7 @@
 
  [<img src="https://codingthesmartway.com/wp-content/uploads/2019/12/logo_svelte.png" width="50px" />][svelte]
  [<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="50px" />][ts]
+ [<img src="https://avatars3.githubusercontent.com/u/20698192?s=200&v=4" width="50px" />][elm]
 
 </div>
 
@@ -50,4 +51,5 @@
 [ts]: https://www.typescriptlang.org/
 [vim]: http://www.vim.org
 [i3wm]: https://i3wm.org
-[svelte]: http://sveltejs.com
+[svelte]: https://svelte.dev/
+[elm]: https://elm-lang.org/
