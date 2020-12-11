@@ -27,28 +27,23 @@
  [<img src="https://cnet1.cbsistatic.com/img/2013/04/02/3ded8fcf-fdb6-11e2-8c7c-d4ae52e62bcc/rust.png" width="50px" />][rust]
  [<img src="https://pbs.twimg.com/profile_images/1145449163/logo.png" width="50px" />][i3wm]
  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width="50px" />][vim]
-
+ [<img src="https://codingthesmartway.com/wp-content/uploads/2019/12/logo_svelte.png" width="50px" />][svelte]
 </div>
 
 ### Technologies I plan to learn in the future:
 
 <div>
-
- [<img src="https://codingthesmartway.com/wp-content/uploads/2019/12/logo_svelte.png" width="50px" />][svelte]
- [<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="50px" />][ts]
  [<img src="https://avatars3.githubusercontent.com/u/20698192?s=200&v=4" width="50px" />][elm]
-
 </div>
 
 <br>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=thelastinuit&show_icons=true&count_private=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thelastinuit&show_icons=true&count_private=true&langs_count=10&layout=compact&hide=html,css,lua)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=thelastinuit&show_icons=true&count_private=true&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thelastinuit&show_icons=true&count_private=true&langs_count=20&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 [rust]: https://rust-lang.org
 [ruby]: http://ruby-lang.org/en
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[ts]: https://www.typescriptlang.org/
 [vim]: http://www.vim.org
 [i3wm]: https://i3wm.org
 [svelte]: https://svelte.dev/
