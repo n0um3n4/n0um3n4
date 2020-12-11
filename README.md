@@ -28,12 +28,15 @@
  [<img src="https://pbs.twimg.com/profile_images/1145449163/logo.png" width="50px" />][i3wm]
  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width="50px" />][vim]
  [<img src="https://codingthesmartway.com/wp-content/uploads/2019/12/logo_svelte.png" width="50px" />][svelte]
+
 </div>
 
 ### Technologies I plan to learn in the future:
 
 <div>
+    
  [<img src="https://avatars3.githubusercontent.com/u/20698192?s=200&v=4" width="50px" />][elm]
+
 </div>
 
 <br>
