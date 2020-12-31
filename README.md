@@ -36,7 +36,7 @@
 <div>
     
  [<img src="https://avatars3.githubusercontent.com/u/20698192?s=200&v=4" width="50px" />][elm]
- [<img src="https://hex.pm/images/elixir-9c0fa8bb2b5d2d6a685d9c59f7cec77a.png?vsn=d" height="50px" />][elixir]
+ <img src="https://hex.pm/images/elixir-9c0fa8bb2b5d2d6a685d9c59f7cec77a.png?vsn=d" height="50px" />
 
 </div>
 
