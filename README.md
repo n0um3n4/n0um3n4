@@ -7,7 +7,7 @@
  - [Bouncer](https://github.com/thelastinuit/bouncer) helps you to manage your requests to third-party services. Written in Rust.
  - [Cargo FAAAAAAK!](https://github.com/thelastinuit/cargo-fak), An ADR tool for your Rust projects (or any project for that matter). Written in Rust.
  - [Starlord](https://github.com/thelastinuit/starlord) Rubocop/Reek ready to use (through Docker). 
- - (In progress) [Arnene](https://github.com/thelastinuit/arnene), Recurrent Neural Network from scratch. Written in Elixir.
+ - (In progress) [Refraction](https://github.com/thelastinuit/refraction), a Recurrent Neural Network from scratch. Written in Elixir.
 
 ### My favourite languages:
 
