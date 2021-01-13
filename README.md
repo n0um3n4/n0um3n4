@@ -15,6 +15,7 @@
 
  [<img src="https://cnet1.cbsistatic.com/img/2013/04/02/3ded8fcf-fdb6-11e2-8c7c-d4ae52e62bcc/rust.png" width="50px" />][rust]
  [<img src="https://bgasparotto.com/wp-content/uploads/2016/03/ruby-logo.png" width="50px" />][ruby]
+ <img src="https://hex.pm/images/elixir-9c0fa8bb2b5d2d6a685d9c59f7cec77a.png?vsn=d" height="50px" />
  
 </div>
 
@@ -25,6 +26,7 @@
  [<img src="https://bgasparotto.com/wp-content/uploads/2016/03/ruby-logo.png" width="50px" />][ruby]
  [<img src="https://ih1.redbubble.net/image.316760221.5828/flat,800x800,075,f.jpg" width="50px" />][js]
  [<img src="https://cnet1.cbsistatic.com/img/2013/04/02/3ded8fcf-fdb6-11e2-8c7c-d4ae52e62bcc/rust.png" width="50px" />][rust]
+ <img src="https://hex.pm/images/elixir-9c0fa8bb2b5d2d6a685d9c59f7cec77a.png?vsn=d" height="50px" />
  [<img src="https://pbs.twimg.com/profile_images/1145449163/logo.png" width="50px" />][i3wm]
  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width="50px" />][vim]
  [<img src="https://codingthesmartway.com/wp-content/uploads/2019/12/logo_svelte.png" width="50px" />][svelte]
@@ -36,7 +38,6 @@
 <div>
     
  [<img src="https://avatars3.githubusercontent.com/u/20698192?s=200&v=4" width="50px" />][elm]
- <img src="https://hex.pm/images/elixir-9c0fa8bb2b5d2d6a685d9c59f7cec77a.png?vsn=d" height="50px" />
 
 </div>
 
