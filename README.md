@@ -10,7 +10,7 @@
  - [Starlord](https://github.com/thelastinuit/starlord) Rubocop/Reek ready to use (through Docker). 
  - (In progress) [Refraction](https://github.com/thelastinuit/refraction), a Recurrent Neural Network from scratch. Written in Elixir.
 
-### My favourite languages:
+### My tools:
 
 [rust]: https://rust-lang.org
 [ruby]: http://ruby-lang.org/en
