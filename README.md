@@ -8,7 +8,7 @@
  - [Cargo FAAAAAAK!](https://github.com/thelastinuit/cargo-fak), An ADR tool for your Rust projects (or any project for that matter). Written in Rust.
  - [Mix FAAAAAAK!](https://github.com/thelastinuit/mix_fak), An ADR tool for your Elixir projects. Written in Elixir.
  - [Starlord](https://github.com/thelastinuit/starlord) Rubocop/Reek ready to use (through Docker). 
- - (In progress) [Refraction](https://github.com/thelastinuit/refraction), a Recurrent Neural Network from scratch. Written in Elixir.
+ - (In progress) [Refraction](https://github.com/asgan/refraction), a Recurrent Neural Network from scratch. Written in Elixir.
 
 ### My tools:
 
