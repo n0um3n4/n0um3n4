@@ -15,13 +15,15 @@
 
 🤖:
 
-- I don't like title. So, instead of call me myself a Jr., Sr., etc, I prefer to say I'm a Elixir developer.
+- I don't like titles. So, instead of call me myself a Jr., Sr., etc, I prefer to say I'm a Elixir/Rust developer.
 
-- I don't call myself Engineer. I studied physics. I majored in physics. For better or for worse, I didn't majored in computer science.
+- I don't call myself an Engineer. I studied physics. I majored in physics. For better or for worse, I didn't majored in computer science.
 
 - I write backend code in **Elixir**, **Ruby**, and **PHP**. 
 
 - I love **Rust** and **Elixir**.
+
+- I have no issue in telling how great I fail and how stupid I am.
 
 - If you want to talk to me about how to conquer the galaxy (no joking), you can email me `email [at] aloui.se`.
 
