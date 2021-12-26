@@ -28,7 +28,7 @@
 - If you want to talk to me about how to conquer the galaxy (no joking), you can email me `email [at] aloui.se`.
 
 
-👩:
+🧑🏻:
 
 - I speak English, Spanish, and can read broken French, German and Portuguese (W.I.P!).
 
