@@ -21,7 +21,7 @@
 
 - I write backend code in **Elixir** and **Ruby**. 
 
-- I love **Rust** and **Elixir**.
+- I love **Rust**, **Elixir** and **LFE**.
 
 - I have no issue in telling how great I fail and how stupid I am.
 
