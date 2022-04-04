@@ -8,7 +8,7 @@
 <br />
 <br />
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thelastinuit&show_icons=true&count_private=true&langs_count=20&layout=compact&hide=html,css,ruby,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thelastinuit&show_icons=true&count_private=true&langs_count=20&layout=compact&hide=html,css,ruby,javascript,vue,lua)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 <td valign="top" width="50%">
