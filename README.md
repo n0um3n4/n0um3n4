@@ -19,7 +19,7 @@
 
 - I don't call myself an Engineer. I studied physics. I majored in physics. For better or for worse, I didn't majored in computer science.
 
-- I write backend code in **Elixir** and **Ruby**. 
+- I write backend code in **Elixir**. 
 
 - I love **Rust**, **Elixir** and **LFE**.
 
