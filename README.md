@@ -23,7 +23,7 @@
 
 - I love **Rust**, **Elixir** and **LFE**.
 
-- I have no issue in telling how great I fail and how stupid I am.
+- I have no issue in telling how great I've failed and how stupid I am.
 
 - If you want to talk to me about how to conquer the galaxy (no joking), you can email me `email [at] aloui.se`.
 
