@@ -38,7 +38,7 @@
   - Play boardgames.
   - Take walks, long walks.
   - Watch TV series and movies.
-  - Read my feedly and non-fiction books.
+  - Read non-fiction books and graphic novels.
 
 </td>
 </tr>
