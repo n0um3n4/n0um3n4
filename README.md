@@ -17,7 +17,7 @@
 
 🤖:
 
-- I don't like titles. So, instead of call me myself a Jr., Sr., etc, I prefer to say I'm a Elixir/Rust developer.
+- I don't like titles. So, instead of call me myself a Jr., Sr., etc, I prefer to say I'm a program writer.
 
 - I don't call myself an Engineer. I studied physics. I majored in physics. For better or for worse, I didn't majored in computer science.
 
