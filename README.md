@@ -5,11 +5,6 @@
 <tr style="border: 0;">
 <td valign="top" width="50%"  style="border: 0;">
 
-<img src="me.gif" style="text-align:center;width: 480px;float: left;"/>
-
-<br />
-<br />
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastinuit&show_icons=true&count_private=true&langs_count=20&layout=compact&hide=html,css,ruby,javascript,vue,lua&theme=dark&hide_border=true" />
 </p>
@@ -24,7 +19,9 @@
 
 </td>
 <td valign="top" width="50%" style="border: 0;">
-
+<img src="me.gif" style="text-align:center;width: 480px;float: left;"/>
+<br />
+<br />
 🤖:
 
 - I don't like titles. So, instead of call me myself a Jr., Sr., etc, I prefer to say I'm a program writer.
