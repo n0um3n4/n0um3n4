@@ -10,7 +10,17 @@
 <br />
 <br />
 
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thelastinuit&show_icons=true&count_private=true&langs_count=20&layout=compact&hide=html,css,ruby,javascript,vue,lua)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastinuit&show_icons=true&count_private=true&langs_count=20&layout=compact&hide=html,css,ruby,javascript,vue,lua&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=thelastinuit&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
+
+<p align="center">
+	<img width="625em" src="https://github.com/thelastinuit/thelastinuit/blob/main/github-metrics.svg" />
+</p>
 
 </td>
 <td valign="top" width="50%" style="border: 0;">
