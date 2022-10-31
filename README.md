@@ -24,7 +24,7 @@
 
 - I don't like titles. So, instead of call me myself a Jr., Sr., etc, I prefer to say I'm a program writer.
 
-- I don't call myself an Engineer. I studied physics. I majored in physics. For better or for worse, I didn't majored in computer science.
+- I don't call myself an engineer. I studied physics. I majored in physics. For better or for worse, I didn't majored in computer science.
 
 - I write backend code in **Elixir**. 
 
