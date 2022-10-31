@@ -28,9 +28,9 @@
 
 - I write backend code in **Elixir**. 
 
-- I love **Rust**, **Elixir** and **LFE**.
+- I love **Rust**, and **Elixir**.
 
-- I have no issue in telling how great I've failed and how stupid I am.
+- I have no issue in telling how great I've failed and how dummy I am.
 
 - If you want to talk to me about how to conquer the galaxy (no joking), you can email me `email [at] aloui.se`.
 
