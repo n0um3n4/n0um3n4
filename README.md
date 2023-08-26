@@ -5,7 +5,7 @@
 <tr style="border: 0;">
 <td valign="top" width="50%" style="border: 0;">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastinuit&show_icons=true&count_private=true&langs_count=20&layout=compact&hide=html,css,ruby,javascript,vue,lua&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastinuit&show_icons=true&count_private=true&langs_count=20&layout=compact&hide=xslt,html,css,ruby,javascript,vue,lua&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
