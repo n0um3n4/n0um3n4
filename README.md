@@ -1,5 +1,5 @@
 
-![idiots](https://user-images.githubusercontent.com/944683/174157502-21e09705-256f-442e-a494-960ac80b0d98.jpg)
+![idiots](https://github.com/thelastinuit/thelastinuit/assets/944683/6d3e5e40-2c3b-425d-aacb-07005205c9e7)
 
 <table style="border: 0;border-collapse:collapse;">
 <tr style="border: 0;">
