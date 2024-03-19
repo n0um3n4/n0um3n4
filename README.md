@@ -45,3 +45,7 @@
 </td>
 </tr>
 </table>
+                <video controls autoplay muted style="width: 525.52px;">
+                    <source src="thering.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
