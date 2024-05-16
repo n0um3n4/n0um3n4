@@ -5,7 +5,7 @@
     <img src="me.gif" style="text-align:center;width: 480px;"/>
   </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=thelastinuit&theme=dark&hide_border=true" width="400">
   </p>
   <p align="center">
     <img src="https://github.com/thelastinuit/thelastinuit/assets/944683/6d3e5e40-2c3b-425d-aacb-07005205c9e7" style="text-align:center;width: 480px;"/>
