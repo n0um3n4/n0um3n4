@@ -2,9 +2,6 @@
 <tr style="border: 0;">
 <td valign="top" width="50%" style="border: 0;">
   <p align="center">
-    <img src="me.gif" style="text-align:center;width: 480px;"/>
-  </p>
-  <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=thelastinuit&theme=dark&hide_border=true" width="400">
   </p>
 <br />
@@ -23,7 +20,7 @@
 
 🧑🏻:
 
-- I speak English, Spanish, and can read broken French, German and Portuguese (W.I.P!).
+- I speak English, Spanish, and can read broken French, German and Portuguese.
 
 - When I'm not coding, I:
   - Play boardgames.
@@ -31,6 +28,10 @@
   - Watch TV series and movies.
   - Read non-fiction books and graphic novels.
 
+<br />
+  <p align="center">
+    <img src="me.gif" style="text-align:center;width: 480px;"/>
+  </p>
 </td>
 </tr>
 </table>
