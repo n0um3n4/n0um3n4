@@ -1,11 +1,5 @@
 <table style="border: 0;border-collapse:collapse;">
 <tr style="border: 0;">
-<td valign="top" width="50%" style="border: 0;">
-  <br />
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=thelastinuit&theme=dark&hide_border=true" width="400">
-  </p>
-<br />
 <br />
 🤖:
 
