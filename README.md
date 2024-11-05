@@ -22,11 +22,6 @@
   - Take walks, long walks.
   - Watch TV series and movies.
   - Read non-fiction books and graphic novels.
-
-<br />
-  <p align="center">
-    <img src="me.gif" style="text-align:center;width: 480px;"/>
-  </p>
 </td>
 </tr>
 </table>
