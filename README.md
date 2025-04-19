@@ -18,10 +18,11 @@
 - I speak English, Spanish, and can read broken French, German and Portuguese.
 
 - When I'm not coding, I:
-  - Play boardgames.
-  - Take walks, long walks.
-  - Watch TV series and movies.
-  - Read non-fiction books and graphic novels.
+  - Work on my projects at [my studio](https://salta.studio)
+  - Play boardgames
+  - Take walks, long walks
+  - Watch TV series and movies
+  - Read non-fiction books and graphic novels
 </td>
 </tr>
 </table>
