@@ -3,7 +3,7 @@
 <br />
   
 - [x] I write backend code in **Elixir**. 
-- [x] I love _C.H.E.R_. [**Clojure**, **Haskell**, **Elixir**, **Rust**].
+- [x] I love _G.R.H.E.C_. [**Gleam**, **Rust**, **Haskell**, **Elixir**, **Clojure**].
 
 </td>
 </tr>
