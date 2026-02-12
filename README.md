@@ -4,7 +4,7 @@
 
 *This account is maintained exclusively for employers. I no longer use it to host my repositories.*
 
-*For my personal and professional projects, please find me at [did:key:z6MkvqpvdaA8YpMzn5sQ67PChE3jRdzQQ69Qmco73HBtyUpm](https://app.radicle.xyz/nodes/seed.radicle.garden/users/did%3Akey%3Az6MkvqpvdaA8YpMzn5sQ67PChE3jRdzQQ69Qmco73HBtyUpm)*
+*For my personal and professional projects, please find me at [did:key:z6MkvqpvdaA8YpMzn5sQ67PChE3jRdzQQ69Qmco73HBtyUpm](https://repos.noumena.mx)*
 
 - [x] I write backend code in **Elixir**. 
 - [x] I love _G.R.H.E.C_. [**Gleam**, **Rust**, **Haskell**, **Elixir**, **Clojure**].
