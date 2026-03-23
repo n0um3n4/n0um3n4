@@ -7,7 +7,6 @@
 *For my personal and professional projects, please find me at [did:key:z6MkvqpvdaA8YpMzn5sQ67PChE3jRdzQQ69Qmco73HBtyUpm](https://repos.noumena.mx)*
 
 - [x] I write backend code in **Elixir**. 
-- [x] I love _G.R.H.E.C_. [**Gleam**, **Rust**, **Haskell**, **Elixir**, **Clojure**].
 
 </td>
 </tr>
